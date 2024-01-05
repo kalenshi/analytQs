@@ -1,0 +1,9 @@
+env/
+.idea/
+sandbox.py
+inheritence.py
+msg.txt
+coding_qual_input.txt
+super.py
+__pycache__
+.pyc
